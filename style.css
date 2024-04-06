@@ -1,0 +1,38 @@
+body {
+
+    background: #9def21;
+}
+
+h1 {
+    font-size: 90px;
+    color: rgb(40, 3, 246);
+}
+
+#score {
+    font-size: 50px;
+    margin: 60px;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+
+#timer {
+    font-size: 50px;
+    float: right;
+    margin: 100px;
+    color: rgb(0, 0, 0);
+}
+
+#sketch {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+#label {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+#confidence {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
